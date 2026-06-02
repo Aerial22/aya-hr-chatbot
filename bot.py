@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer
 from google import genai
 
 # --- 1. Setup Keys and APIs ---
-BOT_TOKEN = "8783162125:AAGvN0E16b0AoT9C6OgxeZ5fkYv-BSTUgRM"
+BOT_TOKEN = "bot_father_token"
 GEMINI_API_KEY = "your_gemini_api_key"
 
 # Configure the Generative AI (Using the new google-genai library)
